@@ -148,8 +148,6 @@ call colorchar.exe /0f "@"
 call colorchar.exe /08 "user"
 call colorchar.exe /0f "[]-"
 set /p gt=
-echo %gt%
-pause
 
 if %gt%==exit exit
 if %gt%==menu goto main
