@@ -1,0 +1,12 @@
+
+Ping wird ausgefhrt fr Greisen [::1] mit 32 Bytes Daten:
+Antwort von ::1: Zeit<1ms 
+Antwort von ::1: Zeit<1ms 
+Antwort von ::1: Zeit<1ms 
+Antwort von ::1: Zeit<1ms 
+
+Ping-Statistik fr ::1:
+    Pakete: Gesendet = 4, Empfangen = 4, Verloren = 0
+    (0% Verlust),
+Ca. Zeitangaben in Millisek.:
+    Minimum = 0ms, Maximum = 0ms, Mittelwert = 0ms
