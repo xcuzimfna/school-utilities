@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/xcuzimfna/school-utilities/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# School Utilities
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ School Utilities is a collection of useful tools.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Installation
 
-```markdown
-Syntax highlighted code block
+Download the installer [here](https://github.com/xcuzimfna/school-utilities/releases/download/v1.0/installer.exe).
 
-# Header 1
-## Header 2
-### Header 3
+## Features
 
-- Bulleted
-- List
+- Process killer
+- Bluescreen
+- Broken file creator
+- Mic muter
+- Camera
+- Fake update
+- Kahoot flooder
+- Virus spammer
+- WLAN disconnecter
+- DDoS
+- Command line utilities
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Screenshots
 
-[Link](url) and ![Image](src)
-```
+![App Screenshot](https://i.imgur.com/d4Z54A2.png)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+## License
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xcuzimfna/school-utilities/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[BSD 2-Clause License](https://raw.githubusercontent.com/xcuzimfna/school-utilities/v1.0/LICENSE)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
