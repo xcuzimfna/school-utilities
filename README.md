@@ -4,6 +4,10 @@
  School Utilities is a collection of useful tools.
 
 
+## Installation
+
+Download the installer [here](https://github.com/xcuzimfna/school-utilities/releases/download/v1.0/installer.exe).
+
 ## Features
 
 - Process killer
