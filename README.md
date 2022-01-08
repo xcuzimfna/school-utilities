@@ -32,3 +32,6 @@ Download the installer [here](https://github.com/xcuzimfna/school-utilities/rele
 
 [BSD 2-Clause License](https://raw.githubusercontent.com/xcuzimfna/school-utilities/v1.0/LICENSE)
 
+
+![Logo](https://github.com/xcuzimfna/school-utilities/raw/v1.0/Files/SU_ICON_transparent.ico)
+
