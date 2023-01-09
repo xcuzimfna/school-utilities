@@ -1,0 +1,14 @@
+{
+  "name": "Kahootflooder",
+  "version": "1.1.0",
+  "description": "Floods kahoots mabye",
+  "main": "flood.js",
+  "author": "codingMASTER398",
+  "license": "unlicense",
+  "dependencies": {
+    "an-array-of-english-words": "^2.0.0",
+    "cli-progress": "^3.8.2",
+    "kahoot.js-updated": "^2.2.2",
+    "readline-sync": "^1.4.10"
+  }
+}
