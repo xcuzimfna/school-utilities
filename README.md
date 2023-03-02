@@ -6,7 +6,7 @@
 
 ## Installation
 
-Download the installer [here](https://github.com/xcuzimfna/school-utilities/releases/download/v1.0/installer.exe).
+Download the installer [here](https://github.com/xcuzimfna/school-utilities/releases/download/v1.1/installer.exe).
 
 ## Features
 
@@ -30,7 +30,7 @@ Download the installer [here](https://github.com/xcuzimfna/school-utilities/rele
 
 ## License
 
-[BSD 2-Clause License](https://raw.githubusercontent.com/xcuzimfna/school-utilities/v1.0/LICENSE)
+[BSD 2-Clause License](https://raw.githubusercontent.com/xcuzimfna/school-utilities/v1.1/LICENSE)
 
 
 ![Logo](https://github.com/xcuzimfna/school-utilities/raw/v1.0/Files/SU_ICON_transparent.ico)
